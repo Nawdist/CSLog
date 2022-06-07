@@ -1,0 +1,14 @@
+C:\Users\hatem\onedrive\desktop\ds\cs\obj\Debug\netcoreapp3.1\cs.csproj.AssemblyReference.cache
+C:\Users\hatem\onedrive\desktop\ds\cs\obj\Debug\netcoreapp3.1\cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hatem\onedrive\desktop\ds\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfoInputs.cache
+C:\Users\hatem\onedrive\desktop\ds\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfo.cs
+C:\Users\hatem\onedrive\desktop\ds\cs\obj\Debug\netcoreapp3.1\cs.csproj.CoreCompileInputs.cache
+C:\Users\hatem\onedrive\desktop\ds\cs\bin\Debug\netcoreapp3.1\cs.exe
+C:\Users\hatem\onedrive\desktop\ds\cs\bin\Debug\netcoreapp3.1\cs.deps.json
+C:\Users\hatem\onedrive\desktop\ds\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.json
+C:\Users\hatem\onedrive\desktop\ds\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.dev.json
+C:\Users\hatem\onedrive\desktop\ds\cs\bin\Debug\netcoreapp3.1\cs.dll
+C:\Users\hatem\onedrive\desktop\ds\cs\bin\Debug\netcoreapp3.1\cs.pdb
+C:\Users\hatem\onedrive\desktop\ds\cs\obj\Debug\netcoreapp3.1\cs.dll
+C:\Users\hatem\onedrive\desktop\ds\cs\obj\Debug\netcoreapp3.1\cs.pdb
+C:\Users\hatem\onedrive\desktop\ds\cs\obj\Debug\netcoreapp3.1\cs.genruntimeconfig.cache
