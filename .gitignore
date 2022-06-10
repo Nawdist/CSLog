@@ -4,5 +4,6 @@ bin
 *.swp
 .DS_Store
 .git
+obj
 *.bat
 Program.cs
