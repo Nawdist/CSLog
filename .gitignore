@@ -2,3 +2,7 @@
 bin
 .vscode
 *.swp
+.DS_Store
+.git
+*.bat
+Program.cs
